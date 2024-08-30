@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2023 CODED BY :- ROZY THAKUR</p>
+    <p>A© 2024 CODED BY :- ROZY THAKUR</p>
     <p> ALWAYS ON FIRE </a></p>
     <div class="mb-3">
       <a href="https://wa.me/+916370734213" class="whatsapp-link">
