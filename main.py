@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/ync8T5F/66c8330f57e941-67026816-Processed.jpg');
+      background-image: url('https://i.ibb.co/Y7pSw8n/0619bf4938a774e6cb5f4eea1ce28559.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>Â© 2023 CODED BY :- ROZY THAKUR</p>
-    <p> ALWAYS ON FIRE ”¥ <a href="">á´„ÊŸÉªá´„á´‹ Êœá´‡Ê€á´‡ Ò“á´Ê€ Ò“á´€á´„á´‡Ê™á´á´á´‹</a></p>
+    <p> ALWAYS ON FIRE </a></p>
     <div class="mb-3">
       <a href="https://wa.me/+916370734213" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
