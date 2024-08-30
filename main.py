@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MULTI CONVO</title>
+  <title>MULTI CONVO SERVER</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">MULTI CONVO</h1>
+    <h1 class="mt-3">CREATED BY ROZY THAKUR</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>Â© 2023 CODED BY :- ROZY THAKUR</p>
-    <p> ALWAYS ON FIRE ðŸ”¥ <a href="">á´„ÊŸÉªá´„á´‹ Êœá´‡Ê€á´‡ Ò“á´Ê€ Ò“á´€á´„á´‡Ê™á´á´á´‹</a></p>
+    <p> ALWAYS ON FIRE ”¥ <a href="">á´„ÊŸÉªá´„á´‹ Êœá´‡Ê€á´‡ Ò“á´Ê€ Ò“á´€á´„á´‡Ê™á´á´á´‹</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+916370734213" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
